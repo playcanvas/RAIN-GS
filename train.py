@@ -8,7 +8,7 @@ from scene import Scene, GaussianModel
 from utils.general_utils import safe_state
 import uuid
 import numpy as np
-import wandb
+# import wandb
 from tqdm import tqdm
 from utils.image_utils import psnr
 from argparse import ArgumentParser, Namespace
